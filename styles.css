@@ -1,0 +1,63 @@
+.divfon{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 80%;
+    color: #39951c;
+}
+
+h3{
+    font-size: 50px;
+    text-align: center;
+}
+
+.margin{
+    margin-left: 150px ;
+    margin-right:150px ;
+}
+
+.i{
+    font-size: 40px;
+    text-align: center;
+    }
+
+img{
+    width:300px ;
+    height:300px ;
+    padding: 20px  20px 20px 20px;
+    margin-left: 150px ;
+}
+form{
+    background-color: aquamarine;
+    color: #0077ff;
+    width:fit-content;
+}
+
+button{
+    font-size: larger;
+    color: rgb(33, 82, 58);
+    background-color: aqua;
+    border-radius: 20px;
+    box-shadow:8px 8px 8px 8px #174457;
+}
+button:hover{
+    background-color: antiquewhite;
+    color: #0077ff;
+    border-radius: 20px;
+    box-shadow:8px 8px 8px 8px #859295;
+}
+footer{
+   text-align: center;
+   color:rgb(60,179,113);
+   font-size: 50px;
+}
+
+.pading{
+    text-align: center;
+    margin: 200px;
+    padding: 200px;
+    border: 20px solid #39951c;
+}
+
+@media screen and (min-width: 480px) {
+  #leftsidebar {width: 200px; float: left;}
+  #main {margin-left: 216px;}
+}
